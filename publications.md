@@ -4,7 +4,7 @@
 
 <p class="lead">
 <b>[CMPB 2020]</b>
-    A.Clèrigues, S. Valverde; J.Bernal; J. Freixenet; A. Oliver; Llad&oacute. "Acute and sub-acute stroke lesion segmentation from multimodal MRI". Computer Methods and Programs in Biomedicine , To appear 2020.  <font color="#909090"> [JCR CSTM IF 3.424, Q1(15/104)]  </font> <a href="https://doi.org/10.1016/j.cmpb.2020.105521" target="_blank">(pdf)</a> <br /> <br /> </p>
+    A.Clèrigues, S. Valverde; J.Bernal; J. Freixenet; A. Oliver; Llad&oacute. "Acute and sub-acute stroke lesion segmentation from multimodal MRI". Computer Methods and Programs in Biomedicine , To appear 2020.  <font color="#909090"> [JCR CSTM IF 3.424, Q1(15/104)]  </font> <a href="https://doi.org/10.1016/j.cmpb.2020.105521" target="_blank">(pdf)</a> <br /></p>
 
 <p class="lead">
 <b>[NI-CL 2020]</b>
