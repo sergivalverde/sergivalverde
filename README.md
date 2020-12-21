@@ -1,16 +1,16 @@
-### Hi there 👋
+## Sergi Valverde, PhD, MBA. 
 
-<!--
-**sergivalverde/sergivalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During the last 8 years, I have been designing
+and developing different open-source neuroimaging software at the
+Institute of Computer Vision and Robotics
+[(VICOROB)](www.vicorob.udg.edu) of the [Universtiy of Girona](www.udg.edu), mostly related to Multiple
+Sclerosis (MS) tissue and lesion segmentation.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since mid 2020, I'm a co-founder and CEO of
+[**tensor**medical](www.tensormedical.ai), a spin-off company of the
+[Universtiy of Girona](www.udg.edu) and the [Vall d'Hebron
+Hospital](www.vhir.org) in Barcelona. At tensormedical, we work to
+help clinical experts to improve care for patients suffering MS. We are developing unique and automated artificial
+intelligence tools to reduce the error associated with visual reading
+of magnetic resonance images of patients, offering unprecedented
+sensitivity and specificity detecting new appearing lesions.
