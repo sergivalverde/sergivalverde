@@ -3,6 +3,14 @@
 ## Journals 
 
 <p class="lead">
+<b>[CMPB 2020]</b>
+    A.Clèrigues, S. Valverde; J.Bernal; J. Freixenet; A. Oliver; Llad&oacute. "Acute and sub-acute stroke lesion segmentation from multimodal MRI". Computer Methods and Programs in Biomedicine , To appear 2020.  <font color="#909090"> [JCR CSTM IF 3.424, Q1(15/104)]  </font> <a href="https://doi.org/10.1016/j.cmpb.2020.105521" target="_blank">(pdf)</a> <br /> <br /> </p>
+
+<p class="lead">
+<b>[NI-CL 2020]</b>
+    M. Salem, S. Valverde, M. Cabezas, D. Pareto, A. Oliver, J. Salvi, À. Rovira, and X. Llad&oacute. "A fully convolutional neural network for new T2-w lesion detection in multiple sclerosis". NeuroImage: Clinical, Volume 25, 102149, 2020.  <font color="#909090"> [JCR N IF 3.943, Q1(3/14)]  </font> <a href="https://doi.org/10.1016/j.nicl.2019.102149" target="_blank">(pdf)</a> <br /> </p>
+
+<p class="lead">
 <b>[IEEE ACCESS 2019]</b>
 J. Bernal, K. Kushibar,  M. Cabezas, S. Valverde, A. Oliver and
 X. Llad&oacute. "Quantitative Analysis of Patch-Based Fully
