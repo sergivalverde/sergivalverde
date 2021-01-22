@@ -3,6 +3,12 @@
 ## Journals 
 
 <p class="lead">
+<b>[NINF 2021]</b>
+	J.Bernal, S.Valverde, K.Kushibar, M.Cabezas, A.Oliver, X.Llad&oacute;, and the Alzheimer's Disease Neuroimaging Initiative.
+	"Generating longitudinal atrophy evaluation datasets on brain magnetic resonance images</i></a>". Neuroinformatics, to appear 2021.  
+	<font color="#909090"> [IF 3.300, Q2(39/109)]  </font> <a href="http://dx.doi.org/10.1007/s12021-020-09499-z" target="_blank">(pdf)</a> <br /></p>
+
+<p class="lead">
 <b>[CMPB 2020]</b>
     A.Clèrigues, S. Valverde; J.Bernal; J. Freixenet; A. Oliver; Llad&oacute. "Acute and sub-acute stroke lesion segmentation from multimodal MRI". Computer Methods and Programs in Biomedicine , To appear 2020.  <font color="#909090"> [JCR CSTM IF 3.424, Q1(15/104)]  </font> <a href="https://doi.org/10.1016/j.cmpb.2020.105521" target="_blank">(pdf)</a> <br /></p>
 
